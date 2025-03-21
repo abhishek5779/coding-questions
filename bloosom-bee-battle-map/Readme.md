@@ -29,10 +29,10 @@ If there are no such flowers, print `-1`.
 ---
 
 ## Constraints
-- \(1 \leq N1 \leq 10^3\)
-- \(1 \leq \text{elements of list1} \leq 10^4\)
-- \(1 \leq N2 \leq 10^3\)
-- \(1 \leq \text{elements of list2} \leq 10^4\)
+- 1 <= N1 <= 10^3
+- 1 <= elementsoflist1 <= 10^4
+- 1 <= N2 <= 10^3
+- 1 <= elementsoflist2 <= 10^4
 
 ---
 
