@@ -39,10 +39,10 @@ If there are no such flowers, print `-1`.
 ## Sample Testcase 0
 
 ### Testcase Input
-5
-1 2 3 2 1
-5
-2 3 4 3 2
+- 5
+- 1 2 3 2 1
+- 5
+- 2 3 4 3 2
 
 ### Testcase Output
 1 1
@@ -59,10 +59,10 @@ The final list of flowers maintained the same order as they bloomed in Lily's ga
 ## Sample Testcase 1
 
 ### Testcase Input
-3
-4 5 6
-3
-1 2 3
+- 3
+- 4 5 6
+- 3
+- 1 2 3
 
 ### Testcase Output
 4 5 6
